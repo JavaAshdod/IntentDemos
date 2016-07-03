@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentDemos</string>
+    <string name="et_password_error_text">Min 6 chars...</string>
+    <string name="et_email_error_text">Email must be valid!</string>
+</resources>
